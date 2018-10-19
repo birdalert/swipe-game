@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/king_of_spades.png-be4b37003194866fb9892617d20f9fd0.stex"
+
+[deps]
+
+source_file="res://sprites/Playing Cards/king_of_spades.png"
+source_md5="9b18a729ba5bda5ca4ef62fc6fdb4f62"
+
+dest_files=[ "res://.import/king_of_spades.png-be4b37003194866fb9892617d20f9fd0.stex" ]
+dest_md5="885213f35c872e8e6a4ef2ba97b2d36c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

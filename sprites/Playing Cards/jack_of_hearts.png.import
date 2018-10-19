@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/jack_of_hearts.png-1a2d3aec91edcde01f70212ea8f2d60b.stex"
+
+[deps]
+
+source_file="res://sprites/Playing Cards/jack_of_hearts.png"
+source_md5="260cdba6401178e69eee797ee4e31247"
+
+dest_files=[ "res://.import/jack_of_hearts.png-1a2d3aec91edcde01f70212ea8f2d60b.stex" ]
+dest_md5="e0090a9eff3faeaa9c9adb0457ecca98"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

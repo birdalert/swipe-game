@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/black_joker.png-ad5d416b2c1f37567a3aa23b769a2fb1.stex"
+
+[deps]
+
+source_file="res://sprites/Playing Cards/black_joker.png"
+source_md5="21cc92db51d5fb7888b97517c51c2d2a"
+
+dest_files=[ "res://.import/black_joker.png-ad5d416b2c1f37567a3aa23b769a2fb1.stex" ]
+dest_md5="9a83f0673dd7ddab54f668e262086367"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

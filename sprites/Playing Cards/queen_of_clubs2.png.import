@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/queen_of_clubs2.png-10b78e2433cffec1e128b440a53a62c5.stex"
+
+[deps]
+
+source_file="res://sprites/Playing Cards/queen_of_clubs2.png"
+source_md5="fd943099b2abeb6cf01bebb4dc66cbbe"
+
+dest_files=[ "res://.import/queen_of_clubs2.png-10b78e2433cffec1e128b440a53a62c5.stex" ]
+dest_md5="34c1865d89f44add03346b9a4dd089c0"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

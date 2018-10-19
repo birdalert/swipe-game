@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/jack_of_spades.png-9a858c1542c03ede2e182c7349c078cb.stex"
+
+[deps]
+
+source_file="res://sprites/Playing Cards/jack_of_spades.png"
+source_md5="92aff04497b99fe80d5d036a41da6529"
+
+dest_files=[ "res://.import/jack_of_spades.png-9a858c1542c03ede2e182c7349c078cb.stex" ]
+dest_md5="fae65f63b68c20d62c191a7085fb3567"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
