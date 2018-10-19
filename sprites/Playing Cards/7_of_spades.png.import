@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/7_of_spades.png-8d82899f2ddb8ab71618e1bdb4e06346.stex"
+
+[deps]
+
+source_file="res://sprites/Playing Cards/7_of_spades.png"
+source_md5="c0f5e5f9013f1d24eccd395ab9312766"
+
+dest_files=[ "res://.import/7_of_spades.png-8d82899f2ddb8ab71618e1bdb4e06346.stex" ]
+dest_md5="c5c7db77f4996004b5a3d7df38d2ac92"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

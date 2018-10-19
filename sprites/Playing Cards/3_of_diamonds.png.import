@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/3_of_diamonds.png-77a21f636241f6cb8c8e9394fafd0b2f.stex"
+
+[deps]
+
+source_file="res://sprites/Playing Cards/3_of_diamonds.png"
+source_md5="b529e1c14fef2ffc07c3c4eac94c31f4"
+
+dest_files=[ "res://.import/3_of_diamonds.png-77a21f636241f6cb8c8e9394fafd0b2f.stex" ]
+dest_md5="e4343f09069337c4f240047f0f26eba0"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

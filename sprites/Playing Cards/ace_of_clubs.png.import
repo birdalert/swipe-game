@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/ace_of_clubs.png-b876a0f0a00ecbfeeb63629d5d1acee6.stex"
+
+[deps]
+
+source_file="res://sprites/Playing Cards/ace_of_clubs.png"
+source_md5="07d1c180bead76a0b8cf8e488dfc2755"
+
+dest_files=[ "res://.import/ace_of_clubs.png-b876a0f0a00ecbfeeb63629d5d1acee6.stex" ]
+dest_md5="ccc792eb1f1fe3b7a9d35b8430b8b766"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

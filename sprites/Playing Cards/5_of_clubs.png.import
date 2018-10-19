@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/5_of_clubs.png-b7da88ee13d918837d078184814157a7.stex"
+
+[deps]
+
+source_file="res://sprites/Playing Cards/5_of_clubs.png"
+source_md5="3781bf44a82cad8ef837e6ba281427c9"
+
+dest_files=[ "res://.import/5_of_clubs.png-b7da88ee13d918837d078184814157a7.stex" ]
+dest_md5="dafb6cd796d8e6a127730a3931ebdd1a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

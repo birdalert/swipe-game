@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/10_of_diamonds.png-6536168245c7f602fee959d240f146f0.stex"
+
+[deps]
+
+source_file="res://sprites/Playing Cards/10_of_diamonds.png"
+source_md5="4324d71291ce16ef4161df8cf852298e"
+
+dest_files=[ "res://.import/10_of_diamonds.png-6536168245c7f602fee959d240f146f0.stex" ]
+dest_md5="72ca0c3c340d33a4f91f8a5cb6975356"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

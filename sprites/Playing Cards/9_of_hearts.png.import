@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/9_of_hearts.png-4bd6c16fd57e0f1f8e1179ec165b330b.stex"
+
+[deps]
+
+source_file="res://sprites/Playing Cards/9_of_hearts.png"
+source_md5="cdb8fda5b30f3973b1ec7f200c24a18f"
+
+dest_files=[ "res://.import/9_of_hearts.png-4bd6c16fd57e0f1f8e1179ec165b330b.stex" ]
+dest_md5="c9bf10b4402f83313eff08e27cb57d46"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

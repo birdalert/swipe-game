@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/10_of_clubs.png-13e609fefbcdbd5a3284398b872681f0.stex"
+
+[deps]
+
+source_file="res://sprites/Playing Cards/10_of_clubs.png"
+source_md5="c29b28f3eceb7284d141163e3bd37736"
+
+dest_files=[ "res://.import/10_of_clubs.png-13e609fefbcdbd5a3284398b872681f0.stex" ]
+dest_md5="90164f1638c408ee21dbfdf44b1c2fb8"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

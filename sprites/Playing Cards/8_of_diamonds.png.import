@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/8_of_diamonds.png-d707ef8ddd4da2fc1ca8c08dc1b82e24.stex"
+
+[deps]
+
+source_file="res://sprites/Playing Cards/8_of_diamonds.png"
+source_md5="8afee604213ca296067245ce18458af2"
+
+dest_files=[ "res://.import/8_of_diamonds.png-d707ef8ddd4da2fc1ca8c08dc1b82e24.stex" ]
+dest_md5="0a40996f3288f10cf3659389815b978c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
